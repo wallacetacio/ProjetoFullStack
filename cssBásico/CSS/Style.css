@@ -1,0 +1,89 @@
+body{
+    
+}
+p{
+    color: blue;
+}
+
+/*#paragrafos {
+    color: blue;
+   /* color: red;
+    background-image: url(../imagem/avenida.jfif);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;*/
+    /*background: url(../imagem/avenida.jfif) repeat-y center/cover  fixed;
+    background-color: red;
+}
+
+.subdiv{
+    background-color: yellow;
+}*/
+
+#titulo{
+    color: #ff0000;
+}
+
+.texto_verde{
+    color: green;
+}
+
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+#mm{
+    background-color:red;
+    width: 1mm;
+    height: 1mm;
+}
+#in{
+    background-color:blue;
+    width: 1in;
+    height: 1in;
+}
+#px{
+    background-color:red;
+    width: 10px;
+    height: 10px;
+}
+#pt{
+    background-color:blue;
+    width: 10pt;
+    height: 10pt;
+}
+#pc{
+    background-color:red;
+    width: 1pc;
+    height: 1pc;
+}
+
+
+.container{
+    width: 200px;
+    height: 500px;
+    background: red;
+   
+}
+
+.insider{    
+    width: 50%;
+    height: 50%;
+   background: blue;
+}
+
+#base {
+    height: 10px;
+    background: red;
+}
+
+#container{
+    color: white;
+    background: blue;
+    /*margin distancia pra fora 
+    padding distancia pra dentro
+    margin: 10px; */
+    padding-top: 10px;
+}

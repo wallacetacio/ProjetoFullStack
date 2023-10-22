@@ -1,0 +1,30 @@
+ul{
+    /* list-style-type: square; */
+    list-style-image: url(/imagem/verifica.png);
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #f3e;
+    
+}
+   
+
+ol{
+    list-style-type: upper-alpha;
+    background-color: #59e;
+    margin-top: 0;
+    padding-top: 0;
+    padding: 10px;
+
+}
+
+li{
+    border: 1px solid;
+    background-color: yellow;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
